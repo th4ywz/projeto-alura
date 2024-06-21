@@ -11,4 +11,4 @@ Utilizo esse espaço para minha organização e compartilhamento dos meus projet
 alurastartestudante@gmail.com
 @th4ywz
 
-![https://pin.it/791ZKPpS0]
+![](https://pin.it/791ZKPpS0)
